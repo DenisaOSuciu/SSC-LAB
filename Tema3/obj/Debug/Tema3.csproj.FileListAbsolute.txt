@@ -1,0 +1,10 @@
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\bin\Debug\Tema3.exe.config
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\bin\Debug\Tema3.exe
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\bin\Debug\Tema3.pdb
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.csproj.AssemblyReference.cache
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.Properties.Resources.resources
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.csproj.GenerateResource.cache
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.csproj.CoreCompileInputs.cache
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.exe
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.pdb
+C:\Users\stanc\OneDrive\Desktop\Tema3\Tema3\obj\Debug\Tema3.MACHandler.resources
