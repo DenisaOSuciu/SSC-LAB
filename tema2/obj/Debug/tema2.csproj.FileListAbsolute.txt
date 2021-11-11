@@ -1,0 +1,10 @@
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\bin\Debug\tema2.exe.config
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\bin\Debug\tema2.exe
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\bin\Debug\tema2.pdb
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.csproj.AssemblyReference.cache
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.Properties.Resources.resources
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.csproj.GenerateResource.cache
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.csproj.CoreCompileInputs.cache
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.exe
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.pdb
+C:\Users\stanc\OneDrive\Desktop\tema2\tema2\obj\Debug\tema2.Form1.resources
